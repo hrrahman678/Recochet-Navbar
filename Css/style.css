@@ -184,7 +184,7 @@ header{
 
 
 
-.cursor{
+/* .cursor{
   position: fixed;
   left: 0;
   top: 0;
@@ -212,7 +212,7 @@ header{
   z-index: 999;
   transition: .3s linear;
   mix-blend-mode: difference;
-}
+} */
 
 
 
